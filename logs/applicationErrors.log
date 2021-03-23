@@ -1,0 +1,2 @@
+16:21:45.581 CUSTOM_PATTERN [main] ERROR c.example.springlogging.Application - Hello from error
+16:24:09.403 CUSTOM_PATTERN [main] ERROR c.example.springlogging.Application - Hello from error
